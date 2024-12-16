@@ -4,6 +4,9 @@
     "@aws-cdk/aws-apigateway:usagePlanKeyOrderInsensitiveId": false,
     "@aws-cdk/aws-cloudfront:defaultSecurityPolicyTLSv1.2_2021": false,
     "@aws-cdk/aws-rds:lowercaseDbIdentifier": false,
-    "@aws-cdk/core:stackRelativeExports": false
+    "@aws-cdk/core:stackRelativeExports": false,
+    "repository_source": "codestar_connection",
+    "repo_string": "shreyas-acelucid/dataall",
+    "repo_connection_arn": "arn:aws:codeconnections:eu-north-1:761018859306:connection/cce95d31-d594-4b65-b185-b588e343bd0d"
   }
 }
